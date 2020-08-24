@@ -1,1 +1,1 @@
-# Warsztat2_CodersLab
+# Warsztat2
